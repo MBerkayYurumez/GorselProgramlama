@@ -1,0 +1,17 @@
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\bin\Debug\net8.0-windows\görsel2-ilkproje.exe
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\bin\Debug\net8.0-windows\görsel2-ilkproje.deps.json
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\bin\Debug\net8.0-windows\görsel2-ilkproje.runtimeconfig.json
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\bin\Debug\net8.0-windows\görsel2-ilkproje.dll
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\bin\Debug\net8.0-windows\görsel2-ilkproje.pdb
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2_ilkproje.Form1.resources
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.AssemblyInfoInputs.cache
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.AssemblyInfo.cs
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.dll
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\refint\görsel2-ilkproje.dll
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.pdb
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2-ilkproje.genruntimeconfig.cache
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\ref\görsel2-ilkproje.dll
+C:\Users\mehme\source\repos\görsel2-ilkproje-ilkcozum\görsel2-ilkproje\obj\Debug\net8.0-windows\görsel2_ilkproje.Form2.resources
